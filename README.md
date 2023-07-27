@@ -1,12 +1,17 @@
 ### Всем привет 👋
 #### Меня зовут Максим! Я пришел в бэкэнд в начале 2022г.
-#### Сейчас пишу два пэт-проекта: Русско-китайский словарь и Телеграм бот GPT bot (предстоит еще много работы с ними)
 #### В основном пишу на Python :)
+#### Фреймворки - Django, Django Rest Framework.
 ---
-### Hi there 👋
-#### My name is Maks! I came to backend in the beginning of 2022. 
-#### Now I'm working on two pet projects: Russian-chinese dictionary and Telegram bot GPT bot (there are a lot to do yet).
-#### Mainly I use Python :)
+### Мои последние проекты:
+* Телеграм бот GPT bot:
+  - https://github.com/makskhaliosa/gpt_bot_api
+  - https://github.com/makskhaliosa/gpt_bot
+* API сайта для рецептов - https://github.com/makskhaliosa/foodgram-project-react
+* API сайта для фото с котами - https://github.com/makskhaliosa/kittygram_final
+* API для сайта с отзывами о кино, музыке и тд (Командный проект) - https://github.com/makskhaliosa/api_yamdb
+* Сайт социальной сети - https://github.com/makskhaliosa/hw05_final
+* API сайта социальной сети - https://github.com/makskhaliosa/api_final_yatube
 <!--
 **makskhaliosa/makskhaliosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
